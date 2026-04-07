@@ -1,0 +1,5 @@
+terraform.tfvars
+*.pem
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.backup
